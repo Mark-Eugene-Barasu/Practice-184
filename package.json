@@ -1,0 +1,19 @@
+{
+  "name": "practice184",
+  "version": "1.0.0",
+  "description": "Practice184, because practice makes perfect.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mark-Eugene-Barasu/Practice-184.git"
+  },
+  "author": "Eugene Mark Korku Barasu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mark-Eugene-Barasu/Practice-184/issues"
+  },
+  "homepage": "https://github.com/Mark-Eugene-Barasu/Practice-184#readme"
+}
