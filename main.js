@@ -1,3 +1,3 @@
 const fs = require("fs");
 
-fs.copyFile(`main.js`, `second.js`);
+fs.copyFileSync(`main.js`, `second.js`);

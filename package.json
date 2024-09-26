@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Mark-Eugene-Barasu/Practice-184/issues"
   },
-  "homepage": "https://github.com/Mark-Eugene-Barasu/Practice-184#readme"
+  "homepage": "https://github.com/Mark-Eugene-Barasu/Practice-184#readme",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
 }
