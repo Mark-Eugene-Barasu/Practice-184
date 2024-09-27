@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+h2 {
+    text-align: center;
+}
+
+form {
+    background-color: lightgreen;
+    text-align: center;
+}
+
+legend {
+    text-decoration: underline;
+    color: green;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+label {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+input[type=text],
+input[type=email]{
+    margin: 20px 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: none;
+    border-bottom: 2px dotted green;
+    background-color: transparent;
+}
+
+input[type=submit]{
+    border: none;
+    width: 30vw;
+    height: 50px;
+    margin-bottom: 50px;
+    border-radius: 20px;
+}
