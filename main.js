@@ -1,8 +1,11 @@
-const fs = require("fs");
-const express = require("express");
+
+import { copyFileSync, unlinkSync } from "fs";
+import express from "express";
 
 
-// fs.copyFileSync(`main.js`, `second.js`);
+copyFileSync(`./main.js`, `./second.js`);
+unlinkSync(`./second.js`);
+
 
 const app = express();
 
