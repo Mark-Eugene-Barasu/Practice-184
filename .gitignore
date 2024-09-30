@@ -1,2 +1,3 @@
 # ignore all the .txt extension file
 *.txt
+# it could be used to ignore any other files too.
